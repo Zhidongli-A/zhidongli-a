@@ -1,6 +1,6 @@
 Hello ,我是枝动力，这里是我的Github主页！
 ---
-## Skillskills
+## Skills
 - **编程语言**: **JavaScript**, **Python**, **C++**, **HTML**, **CSS**, **Markdown**
 - **虚拟歌姬引擎**: X Studio • Ace Studio • Synthesizer V Studio 2 Pro
 ---
